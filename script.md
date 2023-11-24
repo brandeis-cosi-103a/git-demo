@@ -12,4 +12,4 @@
 1. Modify a file
 1. Repeat 5-11
 1. `git rm` new file
-1. Repeate 5-11
+1. Repeat 5-11
