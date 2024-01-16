@@ -1,3 +1,3 @@
 # git-demo
 
-Goodbye class!
+Goodbye again class!
