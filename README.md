@@ -1,3 +1,3 @@
 # git-demo
 
-Hi class!
+Hello class!
