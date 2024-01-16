@@ -1,3 +1,3 @@
 # git-demo
 
-No more greetings.
+Goodbye again class!
