@@ -2,4 +2,4 @@
 
 Hi class!
 
-This is a change made on GitHub
+This is a change made locally
