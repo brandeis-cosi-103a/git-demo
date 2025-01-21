@@ -2,5 +2,4 @@
 
 Hi class!
 
-Good morning!!!!
-And good evening later.
+This is a change made during merge conflict resolution
