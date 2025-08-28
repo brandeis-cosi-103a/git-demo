@@ -2,4 +2,4 @@
 
 Hi class!
 
-This will conflict eventually
+CONFLICT
